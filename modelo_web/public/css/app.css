@@ -15,3 +15,10 @@ p { font-size: 20px; width: 40%; }
 footer { color: #ccc; padding: 20px; text-align: center; position: fixed; bottom: 0; width: 100%; }
 
 #titulo { text-align: center;}
+#carouselExampleControls{
+    width: 30%;
+}
+#carrosel{
+    display: flex;
+    justify-content: center;
+}
